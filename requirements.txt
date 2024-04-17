@@ -1,0 +1,11 @@
+langchain
+langchain-community
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss-cpu
+streamlit
+huggingface_hub
+streamlit-chat
